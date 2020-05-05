@@ -1,2 +1,2 @@
-<h1> Hello World!!</h1>
-<h2>Private IP of Tomcat.</h2>
+<h1> Hello World from Ansible!!</h1>
+
