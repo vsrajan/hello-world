@@ -1,2 +1,2 @@
-<h1> Hello World from Ansible!!</h1>
+<h2> Hello World from inside Docker!!</h2>
 
