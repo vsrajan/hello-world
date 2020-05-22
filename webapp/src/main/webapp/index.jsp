@@ -1,2 +1,2 @@
-<h2> Hello World from inside Docker, courtesy of Terraform and Ansible!!!</h2>
+<h2> Tomcat, Docker, Terraform and Ansible say Hi!!!</h2>
 
