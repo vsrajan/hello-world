@@ -1,1 +1,1 @@
-<font color="green">Hello World!</font>
+<font color="blue">Hello World from Terraform and Ansible!</font>
