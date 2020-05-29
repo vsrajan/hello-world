@@ -1,1 +1,1 @@
-<font color="blue"> Tomcat, Jenkins, Docker, Terraform, Ansible and Kubernetes say Hello World!!!</font>
+<font color="Red">Hello World!</font>
