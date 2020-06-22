@@ -1,1 +1,1 @@
-<font color="red">Hello World from K8S Automation using Ansible and Kops!</font>
+<font color="blue">Kubernetes, Ansible and Kops say Hello World!</font>
